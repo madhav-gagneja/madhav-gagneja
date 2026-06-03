@@ -87,19 +87,19 @@ Currently mastering advanced concepts across programming languages while develop
 <div align="center">
   <table border="0">
     <tr>
-      <!-- GitHub Stats Card (Dark/Futuristic theme) -->
+      <!-- Fixed GitHub Stats Card -->
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="Madhav's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Madhav's GitHub Stats" width="100%" />
       </td>
-      <!-- Top Languages Card (Dark/Futuristic theme) -->
+      <!-- Fixed Top Languages Card -->
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
 
-  <!-- Profile Visitor Counter Widget -->
+  <!-- Fixed Profile Visitor Counter Widget -->
   <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=black&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 </div>
