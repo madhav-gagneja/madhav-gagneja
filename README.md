@@ -84,19 +84,16 @@ Currently mastering advanced concepts across programming languages while develop
 ---
 
 ## 📊 Live System Analytics
-<div align="center">
-  <table border="0">
-    <tr>
-      <!-- Fixed GitHub Stats Card -->
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Madhav's GitHub Stats" width="100%" />
-      </td>
-      <!-- Fixed Top Languages Card -->
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=000000" width="48%" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=000000&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
   <!-- Fixed Profile Visitor Counter Widget -->
   <p align="right">
