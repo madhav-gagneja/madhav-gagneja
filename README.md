@@ -1,6 +1,6 @@
 <!-- HEADER: animated typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into+Advanced+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,15 +17,15 @@
 
 ## 👋 About Me
 
-I'm a Computer Science Engineering student specializing in **AI & Machine Learning**, passionate about building intelligent, data-driven solutions for real-world problems. My interests sit at the intersection of **AI, Data Science, Cloud Computing, and Cybersecurity**.
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building advanced, intelligent, data-driven solutions for real-world problems. My interests sits at the intersection of **Artificial Intelligence, Data Science, Cloud Computing, and Cybersecurity**.
 
 - 🔍 **Data Science & Analytics** — Hands-on experience in data science, financial risk analysis, and dashboard development using Python, SQL, and Tableau. Completed industry simulations with **Deloitte** and **Goldman Sachs** (via Forage), working through real-world analytics and risk-assessment scenarios.
-- 🏆 **Competitive Growth** — Participated in 10+ national-level hackathons, ideathons, and cybersecurity competitions (including CTFs), with finalist positions in 3 major events.
-- 🤖 **What I Build** — Projects that combine AI, analytics, automation, and intelligent systems to create real-world impact — from fraud and scam detection engines to data automation pipelines.
+- 🏆 **Competitive Growth** — Participated in 10+ national-level hackathons, ideathons, and cybersecurity competitions (like CTFs), with finalist positions in 3 major events.
+- 🤖 **What I Build** — Projects that combine Artificial Intelligence, analytics, automation, and machine learning models including intelligent systems to create real-world impact — from fraud and scam detection engines to data automation pipelines.
 - 🌱 **Always Learning** — Exploring emerging tech and looking to contribute to forward-thinking teams driving innovation.
 
 ```text
-🎯 Focus Areas  : AI/ML · Data Science · Cybersecurity · Cloud Computing
+🎯 Focus Areas  : Artificial Intelligence · Machine Learning · Data Science · Cybersecurity · Cloud Computing
 📍 Based in     : India
 🏆 Achievements : 10+ national-level competitions · 3x Finalist
 🌱 Currently    : Building AI-powered detection & automation systems
@@ -34,36 +34,28 @@ I'm a Computer Science Engineering student specializing in **AI & Machine Learni
 
 ---
 
-## 🧭 My Journey — Horizontal Timeline
-
-> Edit the dates/labels below as your story grows. This renders as a visual flow-timeline natively on GitHub.
+## 🧭 My Journey 
 
 ```mermaid
 timeline
     title Education & Career Path
-    Aug 2023 : Started B.Tech CSE (AI & ML)
-    Mar 2024 : Deloitte Job Simulation (Forage)
-    Jun 2024 : Goldman Sachs Job Simulation (Forage)
-    Sep 2024 : Hackathon Finalist #1
-    Jan 2025 : Hackathon Finalist #2
-    Apr 2025 : Hackathon Finalist #3
-    Jun 2025 : Internship - Company Name
-    Jun 2026 : Next Milestone
+    Aug 2024 : Started College Journey - CSE (AI/ML Specialization)
+    Dec 2024 - Sep 2025 : Organized 3 Successful Events (Esports & CTF)
+    Jun 2025 - Aug 2026 : Participated in 10+ National-Level Competitions (3x Finalist)
+    May 2026 - Aug 2026 : Data Science & AI Internship @ Graphura
+    Sep 2026 : Next Milestone Coming Soon
 ```
 
 <details>
-<summary>📋 View detailed timeline (table format)</summary>
+<summary>📋 View detailed timeline </summary>
 <br/>
 
 <table>
-<tr><td width="15%" valign="top"><b>Aug 2023</b></td><td width="85%">🎓 Started B.Tech in Computer Science Engineering (AI & ML)</td></tr>
-<tr><td width="15%" valign="top"><b>Mar 2024</b></td><td width="85%">📈 Completed <b>Deloitte</b> Job Simulation — Data Analytics (Forage)</td></tr>
-<tr><td width="15%" valign="top"><b>Jun 2024</b></td><td width="85%">📊 Completed <b>Goldman Sachs</b> Job Simulation — Software Engineering (Forage)</td></tr>
-<tr><td width="15%" valign="top"><b>Sep 2024</b></td><td width="85%">🏆 Finalist — [Hackathon/Competition Name]</td></tr>
-<tr><td width="15%" valign="top"><b>Jan 2025</b></td><td width="85%">🏆 Finalist — [Hackathon/Competition Name]</td></tr>
-<tr><td width="15%" valign="top"><b>Apr 2025</b></td><td width="85%">🏆 Finalist — [Hackathon/Competition Name]</td></tr>
-<tr><td width="15%" valign="top"><b>Jun 2025</b></td><td width="85%">💼 [Internship/Role Name] @ [Company Name]</td></tr>
-<tr><td width="15%" valign="top"><b>Jun 2026</b></td><td width="85%">🚀 [Next milestone — add as it happens]</td></tr>
+<tr><td width="20%" valign="top"><b>Aug 2024</b></td><td width="80%">🎓 Started my college journey as a CSE student, specializing in <b>AI/ML</b></td></tr>
+<tr><td width="20%" valign="top"><b>Dec 2024 – Sep 2025</b></td><td width="80%">🎉 Organized 3 successful events, including <b>Esports</b> and <b>CTF</b> competitions</td></tr>
+<tr><td width="20%" valign="top"><b>Jun 2025 – Aug 2026</b></td><td width="80%">🏆 Participated in <b>10+ national-level competitions</b> — Finalist in 3</td></tr>
+<tr><td width="20%" valign="top"><b>May 2026 – Aug 2026</b></td><td width="80%">💼 Data Science & Artificial Intelligence Internship @ <b>Graphura</b></td></tr>
+<tr><td width="20%" valign="top"><b>Sep 2026</b></td><td width="80%">🚀 Next milestone — coming soon</td></tr>
 </table>
 
 </details>
