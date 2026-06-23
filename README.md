@@ -1,6 +1,6 @@
-<!-- HEADER: animated typing SVG (more reliable than capsule-render) -->
+<!-- HEADER: animated typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Building+Intelligent%2C+Data-Driven+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into+Decisions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -34,14 +34,20 @@ I'm a Computer Science Engineering student specializing in **AI & Machine Learni
 
 ---
 
-## 🏅 Industry Simulations & Recognitions
+## 🧭 My Journey
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Goldman%20Sachs-0033A0?style=for-the-badge&logo=goldmansachs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forage%20Job%20Simulations-2C5364?style=for-the-badge&logo=files&logoColor=white" />
-  <img src="https://img.shields.io/badge/3x%20Hackathon%20Finalist-00C9A7?style=for-the-badge&logo=trophy&logoColor=white" />
-</p>
+> Edit the rows below as your education and experience grow — just duplicate a row and update the details.
+
+| Year | Milestone |
+|------|-----------|
+| 2023 | 🎓 Started B.Tech in Computer Science Engineering (AI & ML) |
+| 2024 | 📊 Completed Goldman Sachs Job Simulation — Software Engineering (Forage) |
+| 2024 | 📈 Completed Deloitte Job Simulation — Data Analytics (Forage) |
+| 2025 | 🏆 Finalist — [Hackathon/Competition Name] |
+| 2025 | 🏆 Finalist — [Hackathon/Competition Name] |
+| 2025 | 🏆 Finalist — [Hackathon/Competition Name] |
+| 2025 | 💼 [Internship/Role Name] @ [Company Name] |
+| 2026 | 🚀 [Next milestone — add as it happens] |
 
 ---
 
@@ -134,28 +140,18 @@ I'm a Computer Science Engineering student specializing in **AI & Machine Learni
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-gagneja&theme=radical&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=madhav-gagneja&theme=radical&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="60%" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=radical&no-frame=true&row=1&column=6" width="90%" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/madhav-gagneja/madhav-gagneja/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</p>
-
-> 💡 **Setup needed:** this snake animation needs a one-time GitHub Action in your profile repo. Let me know and I'll write the workflow file for you.
 
 ---
 
@@ -171,5 +167,5 @@ I'm always up for discussing AI/ML projects, hackathon ideas, or cybersecurity c
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+visiting+%E2%9C%A8;Let's+build+something+great+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting!;Let's+build+something+great." />
 </div>
