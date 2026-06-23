@@ -34,20 +34,39 @@ I'm a Computer Science Engineering student specializing in **AI & Machine Learni
 
 ---
 
-## 🧭 My Journey
+## 🧭 My Journey — Horizontal Timeline
 
-> Edit the rows below as your education and experience grow — just duplicate a row and update the details.
+> Edit the dates/labels below as your story grows. This renders as a visual flow-timeline natively on GitHub.
 
-| Year | Milestone |
-|------|-----------|
-| 2023 | 🎓 Started B.Tech in Computer Science Engineering (AI & ML) |
-| 2024 | 📊 Completed Goldman Sachs Job Simulation — Software Engineering (Forage) |
-| 2024 | 📈 Completed Deloitte Job Simulation — Data Analytics (Forage) |
-| 2025 | 🏆 Finalist — [Hackathon/Competition Name] |
-| 2025 | 🏆 Finalist — [Hackathon/Competition Name] |
-| 2025 | 🏆 Finalist — [Hackathon/Competition Name] |
-| 2025 | 💼 [Internship/Role Name] @ [Company Name] |
-| 2026 | 🚀 [Next milestone — add as it happens] |
+```mermaid
+timeline
+    title Education & Career Path
+    Aug 2023 : Started B.Tech CSE (AI & ML)
+    Mar 2024 : Deloitte Job Simulation (Forage)
+    Jun 2024 : Goldman Sachs Job Simulation (Forage)
+    Sep 2024 : Hackathon Finalist #1
+    Jan 2025 : Hackathon Finalist #2
+    Apr 2025 : Hackathon Finalist #3
+    Jun 2025 : Internship - Company Name
+    Jun 2026 : Next Milestone
+```
+
+<details>
+<summary>📋 View detailed timeline (table format)</summary>
+<br/>
+
+<table>
+<tr><td width="15%" valign="top"><b>Aug 2023</b></td><td width="85%">🎓 Started B.Tech in Computer Science Engineering (AI & ML)</td></tr>
+<tr><td width="15%" valign="top"><b>Mar 2024</b></td><td width="85%">📈 Completed <b>Deloitte</b> Job Simulation — Data Analytics (Forage)</td></tr>
+<tr><td width="15%" valign="top"><b>Jun 2024</b></td><td width="85%">📊 Completed <b>Goldman Sachs</b> Job Simulation — Software Engineering (Forage)</td></tr>
+<tr><td width="15%" valign="top"><b>Sep 2024</b></td><td width="85%">🏆 Finalist — [Hackathon/Competition Name]</td></tr>
+<tr><td width="15%" valign="top"><b>Jan 2025</b></td><td width="85%">🏆 Finalist — [Hackathon/Competition Name]</td></tr>
+<tr><td width="15%" valign="top"><b>Apr 2025</b></td><td width="85%">🏆 Finalist — [Hackathon/Competition Name]</td></tr>
+<tr><td width="15%" valign="top"><b>Jun 2025</b></td><td width="85%">💼 [Internship/Role Name] @ [Company Name]</td></tr>
+<tr><td width="15%" valign="top"><b>Jun 2026</b></td><td width="85%">🚀 [Next milestone — add as it happens]</td></tr>
+</table>
+
+</details>
 
 ---
 
@@ -137,6 +156,36 @@ I'm a Computer Science Engineering student specializing in **AI & Machine Learni
 
 ---
 
+## 🎯 Currently Working On
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔬 Research**
+<br/>
+Exploring ML model evaluation techniques & scalable backend architecture
+
+</td>
+<td width="33%" align="center">
+
+**🛡️ Security**
+<br/>
+Practicing CTFs & cybersecurity challenges to sharpen offensive/defensive skills
+
+</td>
+<td width="33%" align="center">
+
+**☁️ Cloud**
+<br/>
+Learning cloud-native deployment for AI/ML pipelines
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -149,9 +198,15 @@ I'm a Computer Science Engineering student specializing in **AI & Machine Learni
   <img src="https://streak-stats.demolab.com/?user=madhav-gagneja&theme=radical&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="60%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=radical&no-frame=true&row=1&column=6" width="90%" />
-</p>
+---
+
+## 💡 Random Dev Fact
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
