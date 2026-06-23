@@ -1,6 +1,6 @@
 <!-- HEADER: animated typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into+Advanced+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Creating+Data-Driven+Advanced+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
