@@ -3,23 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into;Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:gagnejamadhav24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
 
 <br/>
 
