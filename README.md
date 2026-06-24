@@ -1,13 +1,16 @@
-<!-- HEADER: animated typing SVG -->
+<!-- HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank"><img src="https://img.shields.io/badge/-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank"><img src="https://img.shields.io/badge/-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  &nbsp;
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-2C5364?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=2C5364&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -36,42 +39,30 @@ Open to       : Internships, collaborations & opportunities in AI/ML and Data Sc
 
 ## My Journey
 
-```mermaid
-timeline
-    title Education & Career Path
-    Aug 2024 : Started B.Tech CSE (AI/ML Specialization)
-    Dec 2024 - Sep 2025 : Organized 3 Events (Esports & CTF)
-    Jun 2025 - Aug 2026 : 10+ National-Level Competitions (3x Finalist)
-    May 2026 - Aug 2026 : AI/Data Science Internship @ Graphura
-    Sep 2026 : Next Milestone
-```
-
 <table>
 <tr>
-<th width="20%">When</th>
-<th width="80%">Milestone</th>
+<td width="12%" align="center"><b>🟢 Aug 2024</b></td>
+<td width="88%">Started B.Tech in Computer Science Engineering, specializing in <b>AI/ML</b></td>
 </tr>
 <tr>
-<td valign="top"><b>Aug 2024</b></td>
-<td>Started B.Tech in Computer Science Engineering, specializing in <b>AI/ML</b></td>
-</tr>
-<tr>
-<td valign="top"><b>Dec 2024 – Sep 2025</b></td>
+<td align="center">🟢 Dec 2024<br/>– Sep 2025</td>
 <td>Organized 3 successful events, including <b>Esports</b> and <b>CTF</b> competitions</td>
 </tr>
 <tr>
-<td valign="top"><b>Jun 2025 – Aug 2026</b></td>
-<td>Competed in <b>10+ national-level competitions</b> — Finalist in 3</td>
+<td align="center">🟢 Jun 2025<br/>– Aug 2026</td>
+<td>Competed in <b>10+ national-level competitions</b> across hackathons, ideathons, and CTFs — Finalist in 3</td>
 </tr>
 <tr>
-<td valign="top"><b>May 2026 – Aug 2026</b></td>
-<td>Data Science & AI Internship at <b>Graphura</b> — building a full-stack job intelligence and fraud detection platform</td>
+<td align="center">🔵 May 2026<br/>– Aug 2026</td>
+<td><b>Data Science & AI Internship @ Graphura</b> — building a full-stack job intelligence and fraud detection platform (Python backend, ML pipeline, React frontend)</td>
 </tr>
 <tr>
-<td valign="top"><b>Sep 2026</b></td>
-<td>Next milestone — coming soon</td>
+<td align="center">⚪ Sep 2026</td>
+<td><i>Next milestone — coming soon</i></td>
 </tr>
 </table>
+
+<sub>🟢 Completed &nbsp;|&nbsp; 🔵 In Progress &nbsp;|&nbsp; ⚪ Upcoming</sub>
 
 ---
 
@@ -210,8 +201,9 @@ Learning cloud-native deployment for AI/ML pipelines
 I'm always up for discussing AI/ML projects, hackathon ideas, or cybersecurity challenges. Feel free to reach out.
 
 <p align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/madhav-gagneja"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
