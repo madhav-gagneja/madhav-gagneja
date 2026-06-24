@@ -1,68 +1,81 @@
 <!-- HEADER: animated typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into;Advanced+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank"><img src="https://img.shields.io/badge/-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=2C5364&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=2C5364&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building advanced, intelligent, data-driven solutions for real-world problems. My interests sits at the intersection of **Artificial Intelligence, Data Science, Cloud Computing, and Cybersecurity**.
+I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, focused on building intelligent, data-driven solutions for real-world problems. My interests sit at the intersection of **AI, Data Science, Cloud Computing, and Cybersecurity**.
 
-- 🔍 **Data Science & Analytics** — Hands-on experience in data science, financial risk analysis, and dashboard development using Python, SQL, and Tableau. Completed industry simulations with **Deloitte** and **Goldman Sachs** (via Forage), working through real-world analytics and risk-assessment scenarios.
-- 🏆 **Competitive Growth** — Participated in 10+ national-level hackathons, ideathons, and cybersecurity competitions (like CTFs), with finalist positions in 3 major events.
-- 🤖 **What I Build** — Projects that combine Artificial Intelligence, analytics, automation, and machine learning models including intelligent systems to create real-world impact — from fraud and scam detection engines to data automation pipelines.
-- 🌱 **Always Learning** — Exploring emerging tech and looking to contribute to forward-thinking teams driving innovation.
+- **Data Science & Analytics** — Hands-on experience in financial risk analysis and dashboard development using Python, SQL, and Tableau. Completed industry simulations with **Deloitte** and **Goldman Sachs** (via Forage).
+- **Competitive Growth** — Participated in 10+ national-level hackathons, ideathons, and cybersecurity competitions (including CTFs), with finalist positions in 3 major events.
+- **What I Build** — Systems combining AI, automation, and machine learning — from fraud and scam detection engines to data automation pipelines.
+- **Always Learning** — Exploring emerging tech and looking to contribute to forward-thinking teams driving innovation.
 
 ```text
-🎯 Focus Areas  : Artificial Intelligence · Machine Learning · Data Science · Cybersecurity · Cloud Computing
-📍 Based in     : India
-🏆 Achievements : 10+ national-level competitions · 3x Finalist
-🌱 Currently    : Building AI-powered detection & automation systems
-📫 Open to      : Internships, collaborations & opportunities in AI/ML and Data Science
+Focus Areas   : Artificial Intelligence · Machine Learning · Data Science · Cybersecurity · Cloud Computing
+Based in      : India
+Achievements  : 10+ national-level competitions · 3x Finalist
+Currently     : Building AI-powered detection & automation systems
+Open to       : Internships, collaborations & opportunities in AI/ML and Data Science
 ```
 
 ---
 
-## 🧭 My Journey 
+## My Journey
 
 ```mermaid
 timeline
     title Education & Career Path
-    Aug 2024 : Started College Journey - CSE (AI/ML Specialization)
-    Dec 2024 - Sep 2025 : Organized 3 Successful Events (Esports & CTF)
-    Jun 2025 - Aug 2026 : Participated in 10+ National-Level Competitions (3x Finalist)
-    May 2026 - Aug 2026 : Data Science & AI Internship @ Graphura
-    Sep 2026 : Next Milestone Coming Soon
+    Aug 2024 : Started B.Tech CSE (AI/ML Specialization)
+    Dec 2024 - Sep 2025 : Organized 3 Events (Esports & CTF)
+    Jun 2025 - Aug 2026 : 10+ National-Level Competitions (3x Finalist)
+    May 2026 - Aug 2026 : AI/Data Science Internship @ Graphura
+    Sep 2026 : Next Milestone
 ```
 
-<details>
-<summary>📋 View detailed timeline </summary>
-<br/>
-
 <table>
-<tr><td width="20%" valign="top"><b>Aug 2024</b></td><td width="80%">🎓 Started my college journey as a CSE student, specializing in <b>AI/ML</b></td></tr>
-<tr><td width="20%" valign="top"><b>Dec 2024 – Sep 2025</b></td><td width="80%">🎉 Organized 3 successful events, including <b>Esports</b> and <b>CTF</b> competitions</td></tr>
-<tr><td width="20%" valign="top"><b>Jun 2025 – Aug 2026</b></td><td width="80%">🏆 Participated in <b>10+ national-level competitions</b> — Finalist in 3</td></tr>
-<tr><td width="20%" valign="top"><b>May 2026 – Aug 2026</b></td><td width="80%">💼 Data Science & Artificial Intelligence Internship @ <b>Graphura</b></td></tr>
-<tr><td width="20%" valign="top"><b>Sep 2026</b></td><td width="80%">🚀 Next milestone — coming soon</td></tr>
+<tr>
+<th width="20%">When</th>
+<th width="80%">Milestone</th>
+</tr>
+<tr>
+<td valign="top"><b>Aug 2024</b></td>
+<td>Started B.Tech in Computer Science Engineering, specializing in <b>AI/ML</b></td>
+</tr>
+<tr>
+<td valign="top"><b>Dec 2024 – Sep 2025</b></td>
+<td>Organized 3 successful events, including <b>Esports</b> and <b>CTF</b> competitions</td>
+</tr>
+<tr>
+<td valign="top"><b>Jun 2025 – Aug 2026</b></td>
+<td>Competed in <b>10+ national-level competitions</b> — Finalist in 3</td>
+</tr>
+<tr>
+<td valign="top"><b>May 2026 – Aug 2026</b></td>
+<td>Data Science & AI Internship at <b>Graphura</b> — building a full-stack job intelligence and fraud detection platform</td>
+</tr>
+<tr>
+<td valign="top"><b>Sep 2026</b></td>
+<td>Next milestone — coming soon</td>
+</tr>
 </table>
-
-</details>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -110,36 +123,36 @@ timeline
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Credit Card Fraud Detection</h3>
+      <h3>Credit Card Fraud Detection</h3>
       <p>Machine learning pipeline to track, identify, and classify anomalous transaction behavior using predictive modeling.</p>
       <a href="#"><code>View Repository →</code></a>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Company Data Automation Pipeline</h3>
+      <h3>Company Data Automation Pipeline</h3>
       <p>Automated scraping and ingestion architecture that harvests corporate data and streamlines backend data flows.</p>
       <a href="#"><code>View Repository →</code></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📄 Automated Resume Scorer</h3>
+      <h3>Automated Resume Scorer</h3>
       <p>AI-driven resume vetting tool that parses resumes and scores alignment against target job descriptions.</p>
       <a href="#"><code>View Repository →</code></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 Job Scam Detection Engine</h3>
+      <h3>Job Scam Detection Engine</h3>
       <p>NLP-based system that flags fraudulent and malicious job postings using keyword, regex, and feature-based scoring.</p>
       <a href="#"><code>View Repository →</code></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📚 Advanced Coding & Language Mastery Lab</h3>
+      <h3>Advanced Coding & Language Mastery Lab</h3>
       <p>A structured repository spanning foundational scripts to advanced algorithmic patterns — covering core paradigms, data structures, and developer tooling.</p>
       <a href="#"><code>Explore the Lab →</code></a>
     </td>
@@ -148,27 +161,27 @@ timeline
 
 ---
 
-## 🎯 Currently Working On
+## Currently Working On
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-**🔬 Research**
+**Research**
 <br/>
 Exploring ML model evaluation techniques & scalable backend architecture
 
 </td>
 <td width="33%" align="center">
 
-**🛡️ Security**
+**Security**
 <br/>
 Practicing CTFs & cybersecurity challenges to sharpen offensive/defensive skills
 
 </td>
 <td width="33%" align="center">
 
-**☁️ Cloud**
+**Cloud**
 <br/>
 Learning cloud-native deployment for AI/ML pipelines
 
@@ -178,7 +191,7 @@ Learning cloud-native deployment for AI/ML pipelines
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
@@ -192,27 +205,17 @@ Learning cloud-native deployment for AI/ML pipelines
 
 ---
 
-## 💡 Random Dev Fact
+## Let's Connect
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-I'm always up for discussing AI/ML projects, hackathon ideas, or cybersecurity challenges. Feel free to reach out!
+I'm always up for discussing AI/ML projects, hackathon ideas, or cybersecurity challenges. Feel free to reach out.
 
 <p align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja"><img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/madhav-gagneja"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting!;Let's+build+something+great." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=888888&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting!;Let's+build+something+great." />
 </div>
