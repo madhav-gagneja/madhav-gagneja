@@ -4,16 +4,21 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/madhav-gagneja" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   &nbsp;
-  <a href="mailto:gagnejamadhav24@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:gagnejamadhav24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank"><img src="https://img.shields.io/badge/-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
   &nbsp;
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-2C5364?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&color=2C5364&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 <br/>
