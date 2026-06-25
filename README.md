@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Madhav+Gagneja;AI%2FML+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+With+Data;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
-
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Madhav+Gagneja;AI%2FML+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+With+Data;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
 
 # 🚀 Madhav Gagneja
 
@@ -10,247 +8,352 @@
 
 <img src="https://komarev.com/ghpvc/?username=madhav-gagneja&label=Profile%20Views&color=00C9A7&style=for-the-badge" />
 
+<p>
+  <a href="https://linkedin.com/in/madhav-gagneja">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gagnejamadhav24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/gagneja_madhav21">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
+
 </div>
+
+---
+
+# 🎯 Quick Snapshot
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+🏆
+
+### 10+
+
+National Competitions
+
+</td>
+
+<td align="center" width="25%">
+
+🥈
+
+### 3×
+
+Finalist Finishes
+
+</td>
+
+<td align="center" width="25%">
+
+💼
+
+### AI
+
+Internship Experience
+
+</td>
+
+<td align="center" width="25%">
+
+🤖
+
+### 4+
+
+AI/ML Projects
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 👨‍💻 About Me
 
-I am a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent systems that solve real-world problems through data, automation, and machine learning.
+I am a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, passionate about building intelligent systems that solve real-world problems through machine learning, automation, analytics, and scalable data solutions.
 
-My interests span:
+### Areas of Interest
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science & Analytics
-- ☁️ Cloud Computing
-- 🔐 Cybersecurity
-- ⚡ Automation Systems
-- 📈 Data Engineering
+* 🤖 Artificial Intelligence & Machine Learning
+* 📊 Data Science & Analytics
+* ⚙️ Data Engineering
+* ☁️ Cloud Computing
+* 🔐 Cybersecurity & CTFs
+* 🚀 Intelligent Automation Systems
 
-Currently building scalable AI-powered platforms focused on fraud detection, automation, and intelligent decision-making.
+### What I Build
 
----
-
-# 🏆 Highlights
-
-### Competitive Achievements
-
-🏅 Participated in **10+ National-Level Hackathons, Ideathons & CTF Competitions**
-
-🥈 Finalist in **3 Major National Competitions**
-
-🎯 Organized Multiple Technical Events Including:
-- Esports Tournament
-- Capture The Flag (CTF)
-- Technical Community Events
+* Fraud Detection Systems
+* AI-Powered Job Intelligence Platforms
+* Resume Analysis Solutions
+* Automated Data Pipelines
+* Data-Driven Decision Systems
 
 ---
 
-### Industry Experience
+# 🚀 Journey & Experience
 
-📊 Deloitte Data Analytics Virtual Experience Program
-
-💼 Goldman Sachs Risk Management Virtual Experience Program
-
-🤖 Data Science & AI Intern @ Graphura
+```text
+Aug 2024
+│
+├── 🎓 Started B.Tech CSE (AI & ML)
+│
+├─────────────────────────────────────
+│
+Dec 2024 – Sep 2025
+│
+├── 🎯 Organized Technical Events
+├── 🎮 Led Esports Competitions
+├── 🔐 Organized CTF Challenges
+│
+├─────────────────────────────────────
+│
+Jun 2025 – Aug 2026
+│
+├── 🏆 Participated in 10+ National Competitions
+├── 🥈 Finalist in 3 Major Events
+├── 💡 Hackathons, Ideathons & CTFs
+│
+├─────────────────────────────────────
+│
+May 2026 – Aug 2026
+│
+├── 💼 Data Science & AI Intern @ Graphura
+├── 🤖 Building AI-Powered Job Intelligence Platform
+├── 📊 Developing Fraud Detection Systems
+│
+├─────────────────────────────────────
+│
+Jun 2026 – Present
+│
+├── 📈 Deloitte Data Analytics Simulation
+├── 💹 Goldman Sachs Risk Management Simulation
+├── ⚙️ Production-Oriented AI Development
+│
+└── 🚀 Expanding into Cloud & MLOps
+```
 
 ---
 
 # ⚡ Tech Stack
 
-<div align="center">
+## 💻 Programming Languages
 
-### Programming Languages
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
+<b>Java</b>
+</td>
 
-### AI / ML & Data Science
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>
+<b>C++</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+<b>SQL</b>
+</td>
+</tr>
+</table>
 
-### Development
+## 🤖 AI / ML & Data Science
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br>
+<b>TensorFlow</b>
+</td>
 
-### Cloud & Tools
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br>
+<b>PyTorch</b>
+</td>
 
-<img src="https://skillicons.dev/icons?i=docker,linux" />
+<td align="center">
+📊<br>
+<b>Pandas</b>
+</td>
 
-</div>
+<td align="center">
+📈<br>
+<b>NumPy</b>
+</td>
+
+<td align="center">
+🧠<br>
+<b>Scikit-Learn</b>
+</td>
+
+<td align="center">
+📉<br>
+<b>Tableau</b>
+</td>
+</tr>
+</table>
+
+## 🌐 Development & Tools
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="65"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="65"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="65"/><br>
+<b>Linux</b>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Areas of Expertise
+# 🚀 Featured Projects
+
+> Replace repository names with your actual repository names if they differ.
+
+<p align="center">
+
+<a href="https://github.com/madhav-gagneja/job-scam-detection-engine">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=job-scam-detection-engine&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/madhav-gagneja/credit-card-fraud-detection">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/madhav-gagneja/resume-scorer">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=resume-scorer&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/madhav-gagneja/company-data-pipeline">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=company-data-pipeline&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+# 📊 Core Expertise
 
 ```text
 Machine Learning
-Data Analytics
+Data Science
 Fraud Detection Systems
 Natural Language Processing
 Feature Engineering
-Predictive Modeling
+Predictive Analytics
 Data Visualization
-Data Engineering
+Automation Systems
 Cybersecurity Fundamentals
 Cloud Fundamentals
 ```
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 Job Scam Detection Engine
-
-AI-powered fraud detection platform designed to identify suspicious and fraudulent job postings.
-
-### Features
-
-✅ NLP-Based Analysis
-
-✅ Fraud Risk Scoring
-
-✅ Explainable Detection Logic
-
-✅ Automated Validation Pipeline
-
-### Tech
-
-Python • Scikit-Learn • NLP • Regex • Feature Engineering
-
-🔗 Repository: YOUR_LINK_HERE
-
----
-
-## 💳 Credit Card Fraud Detection
-
-Machine Learning system for identifying anomalous financial transactions.
-
-### Features
-
-✅ Fraud Classification Models
-
-✅ Feature Engineering Pipeline
-
-✅ Data Visualization Dashboard
-
-✅ Performance Evaluation Metrics
-
-### Tech
-
-Python • Pandas • Scikit-Learn • Tableau
-
-🔗 Repository: YOUR_LINK_HERE
-
----
-
-## 📄 Automated Resume Scorer
-
-AI-powered resume evaluation platform matching candidate profiles against job requirements.
-
-### Features
-
-✅ Resume Parsing
-
-✅ Keyword Extraction
-
-✅ Candidate Scoring
-
-✅ Skill Gap Analysis
-
-### Tech
-
-Python • NLP • Machine Learning
-
-🔗 Repository: YOUR_LINK_HERE
-
----
-
-## ⚙️ Company Data Automation Pipeline
-
-Automated data collection and processing system.
-
-### Features
-
-✅ Data Scraping
-
-✅ Data Validation
-
-✅ Data Transformation
-
-✅ Automated Workflows
-
-### Tech
-
-Python • SQL • Automation
-
-🔗 Repository: YOUR_LINK_HERE
-
----
-
 # 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=madhav-gagneja&theme=tokyonight&hide_border=true" />
 
-</div>
+</p>
 
-<br>
-
-<div align="center">
+<p align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-gagneja&theme=tokyo-night&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🏆 Achievements & Recognition
 
-<div align="center">
+<p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" />
 
-</div>
+</p>
 
 ---
 
 # 🎯 Current Focus
 
-### Currently Learning
+### 📚 Currently Learning
 
-- Advanced Machine Learning
-- MLOps Fundamentals
-- Cloud Deployment
-- Scalable Backend Systems
-- Security Engineering
+* Advanced Machine Learning
+* Scalable Backend Systems
+* Cloud Deployment
+* MLOps Fundamentals
+* Security Engineering
 
-### Currently Building
+### 🚀 Currently Building
 
-- AI-Powered Job Intelligence Platform
-- Scam Detection Engine
-- Data Automation Systems
+* AI-Powered Job Intelligence Platform
+* Scam Detection Engine
+* Data Automation Pipelines
+* Intelligent Decision Systems
 
 ---
 
-# 📚 2026 Goals
+# 📅 2026 Goals
 
-- Contribute to Open Source AI Projects
-- Build Production-Ready ML Systems
-- Master Data Engineering Pipelines
-- Participate in More National Hackathons
-- Publish Advanced AI Projects
-- Strengthen Cloud & MLOps Expertise
+* ✅ Build Production-Ready AI Systems
+* ✅ Contribute to Open Source Projects
+* ✅ Master Data Engineering Pipelines
+* ✅ Expand Cloud & MLOps Expertise
+* ✅ Participate in More National Hackathons
+* ✅ Publish Advanced AI/ML Projects
 
 ---
 
@@ -276,6 +379,8 @@ Python • SQL • Automation
 
 <div align="center">
 
-### 💡 "Building intelligent systems that transform data into decisions."
+### 💡 Building Intelligent Systems That Transform Data Into Decisions
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together.;Always+learning.+Always+building." />
 
 </div>
