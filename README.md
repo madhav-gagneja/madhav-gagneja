@@ -1,213 +1,281 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Madhav+Gagneja;AI%2FML+%26+Data+Engineer;Turning+Data+into;Intelligent+Solutions" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Madhav+Gagneja;AI%2FML+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+With+Data;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
+
+<br>
+
+# 🚀 Madhav Gagneja
+
+### Artificial Intelligence • Machine Learning • Data Engineering • Cybersecurity
+
+<img src="https://komarev.com/ghpvc/?username=madhav-gagneja&label=Profile%20Views&color=00C9A7&style=for-the-badge" />
+
 </div>
 
+---
 
-<br/>
+# 👨‍💻 About Me
 
-## About Me
+I am a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, passionate about building intelligent systems that solve real-world problems through data, automation, and machine learning.
 
-I'm a Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning**, focused on building intelligent, data-driven solutions for real-world problems. My interests sit at the intersection of **AI, Data Science, Cloud Computing, and Cybersecurity**.
+My interests span:
 
-- **Data Science & Analytics** — Hands-on experience in financial risk analysis and dashboard development using Python, SQL, and Tableau. Completed industry simulations with **Deloitte** and **Goldman Sachs** (via Forage).
-- **Competitive Growth** — Participated in 10+ national-level hackathons, ideathons, and cybersecurity competitions (including CTFs), with finalist positions in 3 major events.
-- **What I Build** — Systems combining AI, automation, and machine learning — from fraud and scam detection engines to data automation pipelines.
-- **Always Learning** — Exploring emerging tech and looking to contribute to forward-thinking teams driving innovation.
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Analytics
+- ☁️ Cloud Computing
+- 🔐 Cybersecurity
+- ⚡ Automation Systems
+- 📈 Data Engineering
+
+Currently building scalable AI-powered platforms focused on fraud detection, automation, and intelligent decision-making.
+
+---
+
+# 🏆 Highlights
+
+### Competitive Achievements
+
+🏅 Participated in **10+ National-Level Hackathons, Ideathons & CTF Competitions**
+
+🥈 Finalist in **3 Major National Competitions**
+
+🎯 Organized Multiple Technical Events Including:
+- Esports Tournament
+- Capture The Flag (CTF)
+- Technical Community Events
+
+---
+
+### Industry Experience
+
+📊 Deloitte Data Analytics Virtual Experience Program
+
+💼 Goldman Sachs Risk Management Virtual Experience Program
+
+🤖 Data Science & AI Intern @ Graphura
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
+
+### AI / ML & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+
+### Cloud & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux" />
+
+</div>
+
+---
+
+# 🧠 Areas of Expertise
 
 ```text
-Focus Areas   : Artificial Intelligence · Machine Learning · Data Science · Cybersecurity · Cloud Computing
-Based in      : India
-Achievements  : 10+ national-level competitions · 3x Finalist
-Currently     : Building AI-powered detection & automation systems
-Open to       : Internships, collaborations & opportunities in AI/ML and Data Science
+Machine Learning
+Data Analytics
+Fraud Detection Systems
+Natural Language Processing
+Feature Engineering
+Predictive Modeling
+Data Visualization
+Data Engineering
+Cybersecurity Fundamentals
+Cloud Fundamentals
 ```
 
 ---
 
-## My Journey
+# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="12%" align="center"><b>🟢 Aug 2024</b></td>
-<td width="88%">Started B.Tech in Computer Science Engineering, specializing in <b>AI/ML</b></td>
-</tr>
-<tr>
-<td align="center">🟢 Dec 2024<br/>– Sep 2025</td>
-<td>Organized 3 successful events, including <b>Esports</b> and <b>CTF</b> competitions</td>
-</tr>
-<tr>
-<td align="center">🟢 Jun 2025<br/>– Aug 2026</td>
-<td>Competed in <b>10+ national-level competitions</b> across hackathons, ideathons, and CTFs — Finalist in 3</td>
-</tr>
-<tr>
-<td align="center">🔵 May 2026<br/>– Aug 2026</td>
-<td><b>Data Science & AI Internship @ Graphura</b> — building a full-stack job intelligence and fraud detection platform (Python backend, ML pipeline, React frontend)</td>
-</tr>
-<tr>
-<td align="center">⚪ Sep 2026</td>
-<td><i>Next milestone — coming soon</i></td>
-</tr>
-</table>
+## 🤖 Job Scam Detection Engine
 
-<sub>🟢 Completed &nbsp;|&nbsp; 🔵 In Progress &nbsp;|&nbsp; ⚪ Upcoming</sub>
+AI-powered fraud detection platform designed to identify suspicious and fraudulent job postings.
+
+### Features
+
+✅ NLP-Based Analysis
+
+✅ Fraud Risk Scoring
+
+✅ Explainable Detection Logic
+
+✅ Automated Validation Pipeline
+
+### Tech
+
+Python • Scikit-Learn • NLP • Regex • Feature Engineering
+
+🔗 Repository: YOUR_LINK_HERE
 
 ---
 
-## Tech Stack
+## 💳 Credit Card Fraud Detection
 
-<table>
-<tr>
-<td valign="top" width="50%">
+Machine Learning system for identifying anomalous financial transactions.
 
-**Languages**
-<br/>
-![Python](https://img.shields.io/badge/Python-2C5364?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2C5364?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-2C5364?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-2C5364?style=flat-square&logo=databricks&logoColor=white)
+### Features
 
-</td>
-<td valign="top" width="50%">
+✅ Fraud Classification Models
 
-**AI / ML & Data**
-<br/>
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0F2027?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0F2027?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-0F2027?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-0F2027?style=flat-square&logo=microsoftexcel&logoColor=white)
+✅ Feature Engineering Pipeline
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+✅ Data Visualization Dashboard
 
-**Web & Frontend**
-<br/>
-![HTML5](https://img.shields.io/badge/HTML5-00C9A7?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-00C9A7?style=flat-square&logo=css3&logoColor=white)
+✅ Performance Evaluation Metrics
 
-</td>
-<td valign="top" width="50%">
+### Tech
 
-**Tools & Cloud**
-<br/>
-![Git](https://img.shields.io/badge/Git-00C9A7?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-00C9A7?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-00C9A7?style=flat-square&logo=visualstudiocode&logoColor=white)
+Python • Pandas • Scikit-Learn • Tableau
 
-</td>
-</tr>
-</table>
+🔗 Repository: YOUR_LINK_HERE
 
 ---
 
-## Featured Projects
+## 📄 Automated Resume Scorer
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Credit Card Fraud Detection</h3>
-      <p>Machine learning pipeline to track, identify, and classify anomalous transaction behavior using predictive modeling.</p>
-      <a href="#"><code>View Repository →</code></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Company Data Automation Pipeline</h3>
-      <p>Automated scraping and ingestion architecture that harvests corporate data and streamlines backend data flows.</p>
-      <a href="#"><code>View Repository →</code></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Automated Resume Scorer</h3>
-      <p>AI-driven resume vetting tool that parses resumes and scores alignment against target job descriptions.</p>
-      <a href="#"><code>View Repository →</code></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Job Scam Detection Engine</h3>
-      <p>NLP-based system that flags fraudulent and malicious job postings using keyword, regex, and feature-based scoring.</p>
-      <a href="#"><code>View Repository →</code></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>Advanced Coding & Language Mastery Lab</h3>
-      <p>A structured repository spanning foundational scripts to advanced algorithmic patterns — covering core paradigms, data structures, and developer tooling.</p>
-      <a href="#"><code>Explore the Lab →</code></a>
-    </td>
-  </tr>
-</table>
+AI-powered resume evaluation platform matching candidate profiles against job requirements.
+
+### Features
+
+✅ Resume Parsing
+
+✅ Keyword Extraction
+
+✅ Candidate Scoring
+
+✅ Skill Gap Analysis
+
+### Tech
+
+Python • NLP • Machine Learning
+
+🔗 Repository: YOUR_LINK_HERE
 
 ---
 
-## Currently Working On
+## ⚙️ Company Data Automation Pipeline
 
-<table>
-<tr>
-<td width="33%" align="center">
+Automated data collection and processing system.
 
-**Research**
-<br/>
-Exploring ML model evaluation techniques & scalable backend architecture
+### Features
 
-</td>
-<td width="33%" align="center">
+✅ Data Scraping
 
-**Security**
-<br/>
-Practicing CTFs & cybersecurity challenges to sharpen offensive/defensive skills
+✅ Data Validation
 
-</td>
-<td width="33%" align="center">
+✅ Data Transformation
 
-**Cloud**
-<br/>
-Learning cloud-native deployment for AI/ML pipelines
+✅ Automated Workflows
 
-</td>
-</tr>
-</table>
+### Tech
+
+Python • SQL • Automation
+
+🔗 Repository: YOUR_LINK_HERE
 
 ---
 
-## GitHub Analytics
+# 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=radical&hide_border=true&title_color=00C9A7&icon_color=00C9A7&text_color=cccccc&bg_color=0F2027" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=madhav-gagneja&theme=radical&hide_border=true&background=0F2027&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="60%" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=madhav-gagneja&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-gagneja&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ---
 
-## Let's Connect
+# 🏅 GitHub Trophies
 
-I'm always up for discussing AI/ML projects, hackathon ideas, or cybersecurity challenges. Feel free to reach out.
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/madhav-gagneja">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:gagnejamadhav24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/gagneja_madhav21" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  &nbsp;
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=algolia&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+### Currently Learning
+
+- Advanced Machine Learning
+- MLOps Fundamentals
+- Cloud Deployment
+- Scalable Backend Systems
+- Security Engineering
+
+### Currently Building
+
+- AI-Powered Job Intelligence Platform
+- Scam Detection Engine
+- Data Automation Systems
+
+---
+
+# 📚 2026 Goals
+
+- Contribute to Open Source AI Projects
+- Build Production-Ready ML Systems
+- Master Data Engineering Pipelines
+- Participate in More National Hackathons
+- Publish Advanced AI Projects
+- Strengthen Cloud & MLOps Expertise
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/madhav-gagneja">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gagnejamadhav24@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/gagneja_madhav21">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=888888&center=true&vCenter=true&width=500&height=30&lines=Thanks+for+visiting!;Let's+build+something+great." />
+
+### 💡 "Building intelligent systems that transform data into decisions."
+
 </div>
