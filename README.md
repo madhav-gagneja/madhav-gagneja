@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Madhav+Gagneja;AI%2FML+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+With+Data;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Madhav+Gagneja;AI%2FML+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+With+Data;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
 
 # 🚀 Madhav Gagneja
 
