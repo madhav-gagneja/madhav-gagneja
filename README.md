@@ -1,386 +1,292 @@
+<!-- ============================================================ -->
+<!-- PROJECT AEGIS — GITHUB PROFILE README                        -->
+<!-- Sprint 2 · Production Asset · v1.0                           -->
+<!-- Owner: Madhav Gagneja                                        -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Madhav+Gagneja;AI%2FML+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+With+Data;Turning+Ideas+Into+Scalable+Solutions" alt="Typing SVG" />
+<!-- ============ HERO ============ -->
 
-# 🚀 Madhav Gagneja
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2735,100:090A0F&height=180&section=header&text=MADHAV%20GAGNEJA&fontSize=42&fontColor=E6F1FF&animation=fadeIn&fontAlignY=40&desc=Engineering%20Intelligent%20Systems&descAlignY=62&descSize=16&descColor=00E5FF)
 
-### Artificial Intelligence • Machine Learning • Data Engineering • Cybersecurity
+<a href="https://github.com/madhav-gagneja">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9D?style=for-the-badge&labelColor=0D1117" alt="System Online"/>
+</a>
+<a href="https://github.com/madhav-gagneja">
+  <img src="https://img.shields.io/badge/MISSION-ACTIVE-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Mission Active"/>
+</a>
+<a href="https://github.com/madhav-gagneja">
+  <img src="https://img.shields.io/badge/CLEARANCE-ENGINEERING-B366FF?style=for-the-badge&labelColor=0D1117" alt="Clearance"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=madhav-gagneja&label=Profile%20Views&color=00C9A7&style=for-the-badge" />
+<br/><br/>
 
-<p>
-  <a href="https://linkedin.com/in/madhav-gagneja">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gagnejamadhav24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/gagneja_madhav21">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Initializing+AI+Models...;Engineering+Data+Pipelines...;Training+Intelligent+Systems...;Strengthening+Cybersecurity...;Deploying+Cloud+Infrastructure...;Mission+Status+%3A+ACTIVE" alt="Typing SVG" />
+
+<br/>
+
+**Engineering intelligent systems that transform data into secure, scalable and autonomous solutions.**
+
+<sub>Bridging the gap between secure autonomous systems and market-ready brands · I build scalable ventures where engineering meets innovation.</sub>
+
+<sub>Computer Science Engineering · Artificial Intelligence & Machine Learning Specialization</sub>
 
 </div>
 
----
+<br/>
 
-# 🎯 Quick Snapshot
+<!-- divider :: data-stream -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ ENGINEERING DASHBOARD ============ -->
+
+## 🛰️ Engineering Dashboard
+
+<div align="center">
+
+| CURRENT MISSION | CURRENT BUILD | RESEARCH FOCUS |
+|:---:|:---:|:---:|
+| **AI Job Intelligence Platform** | `In Development` | **AI Agents & Autonomous Systems** |
+
+| Domains Active | Systems Deployed | Status |
+|:---:|:---:|:---:|
+| ![Domains](https://img.shields.io/badge/4-00D9FF?style=for-the-badge&labelColor=0D1117) | ![Deployed](https://img.shields.io/badge/0-B366FF?style=for-the-badge&labelColor=0D1117) | ![Status](https://img.shields.io/badge/OPERATIONAL-00FF9D?style=for-the-badge&labelColor=0D1117) |
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ ABOUT ============ -->
+
+## 🧠 About
+
+I'm an engineer building toward production-ready intelligent systems — not a "student learning AI," but someone architecting the infrastructure, models, and security layers that let autonomous systems operate reliably at scale.
+
+Currently building the **AI Job Intelligence Platform** as an AI Intern at Graphura, alongside the Deloitte Data Analytics and Goldman Sachs Risk Management simulations — production-oriented work, not classroom exercises.
+
+Long-term, this work is the foundation for **MADSTUD** — a future technology company. Right now, the focus is singular: building a rigorous, production-grade personal engineering ecosystem across AI, ML, data, cloud, and security.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ ENGINEERING DOMAINS ============ -->
+
+## ⚙️ Engineering Domains
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-🏆
-
-### 10+
-
-National Competitions
-
-</td>
-
-<td align="center" width="25%">
-
-🥈
-
-### 3×
-
-Finalist Finishes
+### 🧠 Artificial Intelligence
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D9FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=B366FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00D9FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=flat-square&logo=huggingface&logoColor=B366FF)
 
 </td>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
-
-💼
-
-### AI
-
-Internship Experience
-
-</td>
-
-<td align="center" width="25%">
-
-🤖
-
-### 4+
-
-AI/ML Projects
+### 📊 Machine Learning
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D9FF)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=00D9FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=B366FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=00FF9D)
 
 </td>
 </tr>
-</table>
-
----
-
-# 👨‍💻 About Me
-
-I am a **Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning**, passionate about building intelligent systems that solve real-world problems through machine learning, automation, analytics, and scalable data solutions.
-
-### Areas of Interest
-
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science & Analytics
-* ⚙️ Data Engineering
-* ☁️ Cloud Computing
-* 🔐 Cybersecurity & CTFs
-* 🚀 Intelligent Automation Systems
-
-### What I Build
-
-* Fraud Detection Systems
-* AI-Powered Job Intelligence Platforms
-* Resume Analysis Solutions
-* Automated Data Pipelines
-* Data-Driven Decision Systems
-
----
-
-# 🚀 Journey & Experience
-
-```text
-Aug 2024
-│
-├── 🎓 Started B.Tech CSE (AI & ML)
-│
-├─────────────────────────────────────
-│
-Dec 2024 – Sep 2025
-│
-├── 🎯 Organized Technical Events
-├── 🎮 Led Esports Competitions
-├── 🔐 Organized CTF Challenges
-│
-├─────────────────────────────────────
-│
-Jun 2025 – Aug 2026
-│
-├── 🏆 Participated in 10+ National Competitions
-├── 🥈 Finalist in 3 Major Events
-├── 💡 Hackathons, Ideathons & CTFs
-│
-├─────────────────────────────────────
-│
-May 2026 – Aug 2026
-│
-├── 💼 Data Science & AI Intern @ Graphura
-├── 🤖 Building AI-Powered Job Intelligence Platform
-├── 📊 Developing Fraud Detection Systems
-│
-├─────────────────────────────────────
-│
-Jun 2026 – Present
-│
-├── 📈 Deloitte Data Analytics Simulation
-├── 💹 Goldman Sachs Risk Management Simulation
-├── ⚙️ Production-Oriented AI Development
-│
-└── 🚀 Expanding into Cloud & MLOps
-```
-
----
-
-# ⚡ Tech Stack
-
-## 💻 Programming Languages
-
-<table>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
-<b>Python</b>
-</td>
+<td width="50%" valign="top">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=java" width="65"/><br>
-<b>Java</b>
-</td>
+### 🗄️ Data Engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D9FF)
+![Apache Spark](https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=apachespark&logoColor=B366FF)
+![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=00FF9D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D9FF)
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="65"/><br>
-<b>C++</b>
 </td>
+<td width="50%" valign="top">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
-<b>SQL</b>
+### ☁️ Cloud Infrastructure
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonaws&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00D9FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=flat-square&logo=kubernetes&logoColor=B366FF)
+![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=flat-square&logo=terraform&logoColor=B366FF)
+
 </td>
 </tr>
-</table>
-
-## 🤖 AI / ML & Data Science
-
-<table>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="65"/><br>
-<b>TensorFlow</b>
-</td>
+<td width="50%" valign="top">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch" width="65"/><br>
-<b>PyTorch</b>
-</td>
+### 🛡️ Cybersecurity
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF9D)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=00D9FF)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logo=nmap&logoColor=00FF9D)
 
-<td align="center">
-📊<br>
-<b>Pandas</b>
 </td>
+<td width="50%" valign="top">
 
-<td align="center">
-📈<br>
-<b>NumPy</b>
-</td>
+### 🔁 Automation & Intelligent Systems
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=flat-square&logo=githubactions&logoColor=B366FF)
+![n8n](https://img.shields.io/badge/n8n-0D1117?style=flat-square&logo=n8n&logoColor=00FF9D)
+![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D9FF)
 
-<td align="center">
-🧠<br>
-<b>Scikit-Learn</b>
-</td>
-
-<td align="center">
-📉<br>
-<b>Tableau</b>
 </td>
 </tr>
 </table>
 
-## 🌐 Development & Tools
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
 
-<table>
+<!-- ============ CAREER CONSTELLATION ============ -->
+
+## ✦ Career Constellation
+
+<!--
+  Career Constellation asset lives at: assets/timeline/career-constellation.svg
+  It's a standalone SVG (not inline in this .md), so GitHub renders it as a
+  real image — the pulsing green "Current Orbit" ring animates natively via
+  SMIL <animate>, no JS required. To add/edit nodes, open the SVG directly.
+-->
+
+<div align="center">
+<img src="assets/timeline/career-constellation.svg" width="100%" alt="Career Constellation timeline"/>
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ FLAGSHIP SYSTEMS ============ -->
+
+## 🚀 Flagship Systems
+
+<!--
+  CARD TEMPLATE — copy the <td>...</td> block below into a new column
+  inside the <tr> to add a project. Keep width="33%" for a 3-up grid;
+  drop to width="50%" if you're only ever showing 2, or width="25%" for 4.
+
+  <td width="33%" valign="top" align="center">
+
+  **PROJECT NAME**
+  <br/><sub>Domain Tag · Domain Tag</sub>
+  <br/><br/>
+  One-sentence description: what it does + the problem it solves.
+  <br/><br/>
+  ![Status](https://img.shields.io/badge/STATUS-DEPLOYED-00FF9D?style=flat-square&labelColor=0D1117)
+  <br/>
+  [`View System →`](https://github.com/madhav-gagneja/REPO_NAME)
+
+  </td>
+
+  Status badge color key (keep consistent across all cards):
+    DEPLOYED   → 00FF9D (cyber green)
+    IN_DEV     → 00D9FF (AI cyan)
+    RESEARCH   → B366FF (purple neural glow)
+    ARCHIVED   → 6E7681 (muted grey)
+-->
+
+<table align="center">
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="65"/><br>
-<b>HTML5</b>
-</td>
+<td width="33%" valign="top" align="center">
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="65"/><br>
-<b>CSS3</b>
-</td>
+**AI Job Intelligence Platform**
+<br/><sub>Artificial Intelligence · Automation</sub>
+<br/><br/>
+Autonomous pipeline that sources, ranks, and matches job intelligence using LLM-driven agents.
+<br/><br/>
+![Status](https://img.shields.io/badge/STATUS-IN_DEV-00D9FF?style=flat-square&labelColor=0D1117)
+<br/>
+[`View System →`](#)
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="65"/><br>
-<b>GitHub</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="65"/><br>
-<b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="65"/><br>
-<b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="65"/><br>
-<b>Linux</b>
 </td>
 </tr>
 </table>
 
----
-
-# 🚀 Featured Projects
-
-> Replace repository names with your actual repository names if they differ.
+<div align="center">
+<sub>More flagship systems land here as repos ship — see template comment above.</sub>
+</div>
 
 <p align="center">
-
-<a href="https://github.com/madhav-gagneja/job-scam-detection-engine">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=job-scam-detection-engine&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/madhav-gagneja/credit-card-fraud-detection">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=credit-card-fraud-detection&theme=tokyonight&hide_border=true" />
-</a>
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
 </p>
 
-<p align="center">
+<!-- ============ RESEARCH ============ -->
 
-<a href="https://github.com/madhav-gagneja/resume-scorer">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=resume-scorer&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/madhav-gagneja/company-data-pipeline">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=madhav-gagneja&repo=company-data-pipeline&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
----
-
-# 📊 Core Expertise
-
-```text
-Machine Learning
-Data Science
-Fraud Detection Systems
-Natural Language Processing
-Feature Engineering
-Predictive Analytics
-Data Visualization
-Automation Systems
-Cybersecurity Fundamentals
-Cloud Fundamentals
-```
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=madhav-gagneja&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhav-gagneja&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 🏆 Achievements & Recognition
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=algolia&no-frame=true&margin-w=15&row=2&column=4" />
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-### 📚 Currently Learning
-
-* Advanced Machine Learning
-* Scalable Backend Systems
-* Cloud Deployment
-* MLOps Fundamentals
-* Security Engineering
-
-### 🚀 Currently Building
-
-* AI-Powered Job Intelligence Platform
-* Scam Detection Engine
-* Data Automation Pipelines
-* Intelligent Decision Systems
-
----
-
-# 📅 2026 Goals
-
-* ✅ Build Production-Ready AI Systems
-* ✅ Contribute to Open Source Projects
-* ✅ Master Data Engineering Pipelines
-* ✅ Expand Cloud & MLOps Expertise
-* ✅ Participate in More National Hackathons
-* ✅ Publish Advanced AI/ML Projects
-
----
-
-# 🤝 Let's Connect
+## 🔬 Research
 
 <div align="center">
 
-<a href="https://linkedin.com/in/madhav-gagneja">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Current Focus:** AI Agents & Autonomous Systems
 
-<a href="mailto:gagnejamadhav24@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/gagneja_madhav21">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+Exploring how intelligent agents can operate reliably in production — reasoning loops, tool orchestration, and safe autonomy under real-world constraints.
 
 </div>
 
----
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ GITHUB ANALYTICS ============ -->
+
+## 📡 GitHub Analytics
 
 <div align="center">
 
-### 💡 Building Intelligent Systems That Transform Data Into Decisions
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=madhav-gagneja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=B366FF&text_color=E6F1FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhav-gagneja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E6F1FF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+something+amazing+together.;Always+learning.+Always+building." />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-gagneja&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=B366FF&fire=00FF9D&currStreakLabel=00D9FF" />
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ ACHIEVEMENTS ============ -->
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=madhav-gagneja&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="2px">
+</p>
+
+<!-- ============ SOCIAL / FOOTER ============ -->
+
+<div align="center">
+
+### Connect
+
+<a href="https://linkedin.com/in/madhav-gagneja"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" /></a>
+<a href="https://github.com/madhav-gagneja"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E6F1FF" /></a>
+<a href="https://leetcode.com/u/madhav-gagneja/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9D" /></a>
+<a href="https://www.hackerrank.com/profile/madhav_gagneja"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00D9FF" /></a>
+<a href="mailto:gagneja.madhav2006@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=B366FF" /></a>
+
+<!-- Portfolio (madhav-gagneja.in) and Linktree (madhav-gagneja.dev) are queued to launch
+     after this README ships — add their badges back in once live:
+<a href="https://madhav-gagneja.in"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=B366FF" /></a>
+-->
+
+<br/><br/>
+
+<sub>MISSION STATUS: ACTIVE — Engineering intelligent systems that transform data into secure, scalable and autonomous solutions.</sub>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:1B2735,100:0D1117&height=100&section=footer)
 
 </div>
